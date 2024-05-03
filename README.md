@@ -23,8 +23,8 @@ The Solar System project is a web application created using HTML, CSS, and JavaS
 
 To run the Solar System project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/solar-system.git`
-2. Navigate to the project directory: `cd solar-system`
+1. Clone the repository: `https://github.com/AyushSingh012/Solar-System-Project.git`
+2. Navigate to the project directory: `cd Solar-System`
 3. Open the `index.html` file in your web browser.
 
 ## Credits
